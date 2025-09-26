@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///C:/Projects/Next.js/06-notehub-nextjs/app/notes/page.tsx"],"sourcesContent":["const Notes = () => {\n  return <div>Notes</div>;\n}\n\nexport default Notes;"],"names":[],"mappings":";;;;;;AAAA,MAAM,QAAQ;IACZ,qBAAO,8OAAC;kBAAI;;;;;;AACd;uCAEe","debugId":null}}]
+}

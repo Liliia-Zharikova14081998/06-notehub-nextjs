@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 23, "column": 0}, "map": {"version":3,"sources":["file:///C:/Projects/Next.js/06-notehub-nextjs/app/notes/%5Bid%5D/page.tsx"],"sourcesContent":["import NoteDetails from \"./NoteDetails\";\r\n\r\nexport default function noteDetails() {\r\n    return\r\n}"],"names":[],"mappings":";;;;AAEe,SAAS;IACpB;AACJ","debugId":null}}]
+}

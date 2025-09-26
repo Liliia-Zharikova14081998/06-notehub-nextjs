@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Projects/Next.js/06-notehub-nextjs/app/notes/NotesPage.tsx"],"sourcesContent":["\"use client\";\r\n\r\n\r\n  \r\n\r\n\r\n\r\n\r\nimport Error from './error';\r\nimport Loading from './loading';\r\n\r\nexport default function NotesPage() {\r\n\r\n \r\n \r\n  \r\n  \r\n\r\n  \r\n  \r\n\r\n\r\n\r\n\r\n"],"names":[],"mappings":";;;;AAAA;AAWe,SAAS,aAAY;KAAZ","debugId":null}}]
+}
